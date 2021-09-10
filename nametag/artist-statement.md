@@ -1,0 +1,5 @@
+# Artist Statement
+
+My nametag aims to be reminiscent of a campfire under a night sky, an item of personal nostalgia, and utilizes a warm colour palette.  I saw this as an opportunity to program a particle system to capture the movement of flames and smoke.  These particles, when layered upon one another, blend into a unique gradient which translates to the static nametag.  The program uses random elements to control the movement, colour, opacity and size of each particle independently, yielding a natural appearance.  However, I had to take measures to ensure the particles did not obscure my name text and make it hard to read.  This was done by influencing the movement of the particles to tend away from the text, and by increasing the decay rate of size and opacity for the particles as they approach the text.
+
+These effects encapsulate the warm comfort of a campfire, and the colours and patterns take inspiration from the behaviour of fire.  I did not wish to capture the destructive elements of fire, but rather the more friendly aspects, indicated by the soft faded circles used to form patterns.  The nametag gives a relaxed, approachable impression.
